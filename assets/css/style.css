@@ -1,3 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&family=Open+Sans:wght@300&display=swap');
+
+
 body {
-    font-family: Arial;
+    font-family: Nunito, sans-serif;
+    color: #ff0000;
+    background-image: url("https://www.tripsavvy.com/thmb/g8Uw_XqAQZvCTUuy7z5bX5Py898=/5150x2897/smart/filters:no_upscale()/CorkCity-5b8800b8c9e77c007b1e3eb7.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
+
+h2 {
+    font-family: Open, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+    color: #ff0000;
+    font-style: italic;
+}
+
+#menu {
+    list-style-type: none ;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    font-weight: bolder;
+    font-size: 110%;
+    text-align: center;
+}
+
+#menu li {
+    display: inline;
+    margin: 50px;
+    }
+
+#menu a {
+    text-decoration: none;
+    color: red;
+    text-align: center;
+}
+
+p {
+    margin-top: 50px;
+    color:#e7f707;
+    text-align: left;
+    font-weight: 900;
+}
+
+footer {
+    height: 100px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media {
+    font-size: 180%;
+    padding: 25%;
+    color: red;
+    margin: 8%;
+}
+
+.maps {
+    margin-top: 20px;
+}
+
+#photo {
+    clear: both;
+}
+
+#photo img {
+    width: 100%;
+}
+
+
+

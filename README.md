@@ -18,7 +18,7 @@ This is the main marketing website for Corcaigh Gym. It is designed to be respon
 
 * Design: 
 
-  * Colour Scheme: the two main colours used for the website are red and white which are the traditional colours of Cork. 
+  * Colour Scheme: Various as the background picture has a lot of different colors, the photo was taken at sunset.  
 
   * Typography: to be confirmed.
 
@@ -75,4 +75,23 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Credit:
 
+* Code:
+ * Great help was gotten from the Code Institute Courses but also from [W3School](https://www.w3schools.com/)
+
+
+* Content:
+All content was written by the developer. 
+
+* Media:
+All the photos used in the project are listed below:
+"https://www.nerdfitness.com/wp-content/uploads/2020/01/a-clean-gym.jpg"
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1s8KrZAJF3FyAS6hr1in73Ls5CRDM2tVqXw&usqp=CAU"
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGXx8UA5KFkpdEvz6Y4bL5AnMsqohfGazVQ&usqp=CAU"
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JWAj1pr-Y3-fmtwVM7y7PCz8yTRIJMr1Tg&usqp=CAU"
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbr71ploCR9Vcvsp5eQ2ivRT4B7I9g4Q2t5A&usqp=CAU"
+"https://www.google.com/maps/place/Victoria+Rd,+Ballintemple,+Cork/@51.8962994,-8.4663363,15z/data=!4m5!3m4!1s0x4844900791af9473:0x73dd2f3439442d89!8m2!3d51.8962994!4d-8.4575816"
+
+* Acknowledgements:
+ - Tutor Support at Code Institute for all the help they provided since I started this journey. 
+ - Special thanks to Alexander who helped me a lot getting an extension date in a very difficult time. 
 
